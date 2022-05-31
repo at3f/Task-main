@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2121114367",
+    "project_id": "khadmati-61323",
+    "storage_bucket": "khadmati-61323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2121114367:android:f9fbbb1a760699f82be2ca",
+        "android_client_info": {
+          "package_name": "com.example.untitled23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2121114367-qtc9ihj9abmjhsmectjruh7uj98lkjfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkxaC2qV0REA96iz1ZCETC5keKHGz9oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2121114367-qtc9ihj9abmjhsmectjruh7uj98lkjfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

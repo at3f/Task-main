@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">2121114367-qtc9ihj9abmjhsmectjruh7uj98lkjfi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">2121114367</string>
+    <string name="google_api_key" translatable="false">AIzaSyBkkxaC2qV0REA96iz1ZCETC5keKHGz9oc</string>
+    <string name="google_app_id" translatable="false">1:2121114367:android:f9fbbb1a760699f82be2ca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBkkxaC2qV0REA96iz1ZCETC5keKHGz9oc</string>
+    <string name="google_storage_bucket" translatable="false">khadmati-61323.appspot.com</string>
+    <string name="project_id" translatable="false">khadmati-61323</string>
+</resources>
